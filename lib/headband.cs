@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace lib
 {
-    public partial class Form1 : Form
+    public partial class headband : Form
     {
-        public Form1()
+        public headband()
         {
             InitializeComponent();
         }
